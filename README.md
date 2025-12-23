@@ -25,6 +25,9 @@ https://lucid.app/lucidchart/0e7e92a1-0674-4731-a1c9-f2575dc2219a/edit?viewport_
 
 ---
 
+Viva Video Link:
+https://www.youtube.com/shorts/2TkeVME-2Gk
+
 ## 🧠 SQL Queries
 All required SQL queries are written in the `queries.sql` file.
 
